@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Star Wars by Uday</string>
+    <string name="toolbar_title">Star Wars</string>
+    <string name="bottom_sheet_clear_filter">Clear Filter</string>
+    <string name="bottom_sheet_name_filter">By Name</string>
+    <string name="bottom_sheet_filter_by_gender">By Gender</string>
+    <string name="bottom_sheet_filter_by_age">By Age</string>
+    <string name="bottom_sheet_filter_by_created">By Created</string>
+    <string name="bottom_sheet_filter_by_updated">By Updated</string>
+    <string name="film_directed_by">Directed By: %1$s</string>
+    <string name="film_produced_by">Produced By: %1$s</string>
+</resources>

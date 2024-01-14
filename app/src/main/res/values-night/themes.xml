@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GrowwAssesment" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryYellow</item>
+        <item name="colorPrimaryDark">@color/primaryYellowDark</item>
+    </style>
+
+    <style name="Theme.GrowwAssesment" parent="Base.Theme.GrowwAssesment" />
+</resources>
